@@ -1,0 +1,8 @@
+#logo_line{
+    animation: load 4s ease infinite forwards;}
+
+    @keyframes load {
+    0%{stroke-dashoffset:0;}
+    20%{stroke-dashoffset:-118;}
+    100%{stroke-dashoffset:-118;}   
+}
